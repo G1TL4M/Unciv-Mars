@@ -71,6 +71,7 @@
 	{
 		"name": "Olympus Mons Base",
 		"type": "Land",
+		"RGB": [102, 102, 102],
 		"gold": 4,
 		"science": 4,
 		"uniques": ["Doesn't generate naturally"],
