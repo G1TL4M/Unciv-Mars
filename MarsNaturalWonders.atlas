@@ -1,0 +1,19 @@
+MarsNaturalWonders.png
+size: 80, 40
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Olympus Mons Peak
+  rotate: false
+  xy: 4, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Olympus Mons Base
+  rotate: false
+  xy: 4, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
