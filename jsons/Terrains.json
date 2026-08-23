@@ -394,7 +394,7 @@
             {"text": "Amphibious", "link":"Promotion/Amphibious"}
         ]
     },
-
+/*
     // Natural Wonders
 	{
 		"name": "Great Barrier Reef",
@@ -608,7 +608,7 @@
 		"unbuildable": true,
 		"weight": 10
 	},
-/*
+
 	// BNW wonders
 	{
 		"name": "King Solomon's Mines",
