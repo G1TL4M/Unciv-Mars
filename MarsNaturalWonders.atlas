@@ -5,14 +5,14 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Olympus Mons Peak
   rotate: false
-  xy: 4, 5
+  xy: 4, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Olympus Mons Base
   rotate: false
-  xy: 44, 5
+  xy: 44, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
