@@ -5,7 +5,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Streaks
   rotate: false
-  xy: 4, 6
+  xy: 4, 4
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
