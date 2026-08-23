@@ -70,7 +70,7 @@
 	},
 	{
 		"name": "Olympus Mons Base",
-		"type": "NaturalWonder",
+		"type": "Land",
 		"gold": 4,
 		"science": 4,
 		"uniques": ["Doesn't generate naturally"],
