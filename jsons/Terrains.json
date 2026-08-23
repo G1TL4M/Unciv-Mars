@@ -40,7 +40,7 @@
             "Occurs at temperature between [0.7] and [0.8] and humidity between [0.7] and [1]",
             "Occurs at temperature between [0.6] and [0.8] and humidity between [0.4] and [0.6]",
             "[+3] to Fertility for Map Generation",
-            "A Region is formed with at least [30]% [Orange Desert tiles, with priority [7]",
+            "A Region is formed with at least [30]% [Orange Desert] tiles, with priority [7]",
             "A Region can not contain more [Red Desert] tiles than [Orange Desert] tiles",
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Jungle] Regions>",
