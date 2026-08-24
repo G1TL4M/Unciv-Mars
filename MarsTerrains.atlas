@@ -1,5 +1,5 @@
 MarsTerrains.png
-size: 80, 40
+size: 120, 40
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -13,6 +13,13 @@ TileSets/FantasyHex/Tiles/Red Desert
 TileSets/FantasyHex/Tiles/Orange Desert
   rotate: false
   xy: 44, 6
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra
+  rotate: false
+  xy: 84, 6
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
