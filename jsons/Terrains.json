@@ -133,10 +133,8 @@
 					"Has an elevation of [1] for visibility calculations",
 					"Occurs in groups around high elevations",
 					"[+1] to Fertility for Map Generation",
-					"A Region is formed with at least [40]% [Hill] tiles, with priority [5]",
+					"A Region is formed with at least [40]% [Streaks] tiles, with priority [5]",
 					"Base Terrain on this tile is not counted for Region determination",
-					"Starts in regions of this type receive an extra [Sheep]",
-					"Considered [Desirable] when determining start locations",
 					"Considered [Production] when determining start locations",
 					"Every [22] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
@@ -151,7 +149,8 @@
 		"occursOn": ["Red Desert","Orange Desert"],
 		"uniques": ["Fresh water",
 					"Considered [Food] when determining start locations",
-					"Considered [Desirable] when determining start locations"]
+					"Considered [Desirable] when determining start locations",
+			"A Region is formed with at least [30]% [Underground Lake] tiles, with priority [3]"],
 	},
 	// Mars wonders
 	{
