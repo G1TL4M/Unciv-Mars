@@ -1,11 +1,18 @@
 MarsFeatures.png
-size: 40, 40
+size: 80, 40
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Streaks
   rotate: false
   xy: 4, 4
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Underground Lake
+  rotate: false
+  xy: 44, 4
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
