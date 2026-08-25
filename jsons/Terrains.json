@@ -140,6 +140,19 @@
 					"Considered [Production] when determining start locations",
 					"Every [22] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
+	{
+		"name": "Underground Lake",
+		"type": "TerrainFeature",
+		"food": 2,
+		"gold": 1,
+		"movementCost": 2,
+		"overrideStats": true,
+		"RGB": [0, 171, 169],
+		"occursOn": ["Red Desert","Orange Desert"],
+		"uniques": ["Fresh water",
+					"Considered [Food] when determining start locations",
+					"Considered [Desirable] when determining start locations"]
+	},
 	// Mars wonders
 	{
 		"name": "Olympus Mons Peak",
